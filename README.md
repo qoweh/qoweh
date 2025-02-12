@@ -4,11 +4,11 @@
 
 I'm a passionate Computer Science student **exploring various aspects of software development.** Here's what I'm currently up to:
 
-- 🎓 Currently pursuing my degree in Computer Science
-- <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=42&logoColor=white"/> Learning C programming at 42 gyeongsan
-- 🚀 Developing backend servers using Java & Spring
-- 🧠 Solving coding challenges and algorithms with Python
-- 🌱 Always eager to learn new technologies
+- Currently pursuing my degree in Computer Science 🎓
+- Learning C programming and Computer Science at 42 gyeongsan <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=42&logoColor=white"/>
+- Developing backend servers using Java & Spring 🚀
+- Always eager to learn new technologies 🌱 
+<!--- 🧠 Solving coding challenges and algorithms with Python-->
 
 ## 🛠 Tech Stack
 
