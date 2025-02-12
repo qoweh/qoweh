@@ -5,7 +5,7 @@
 I'm a passionate Computer Science student **exploring various aspects of software development.** Here's what I'm currently up to:
 
 - 🎓 Currently pursuing my degree in Computer Science
-- 💻 Learning C programming at 42 School
+- <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=42&logoColor=white"/> Learning C programming at 42 gyeongsan
 - 🚀 Developing backend servers using Java & Spring
 - 🧠 Solving coding challenges and algorithms with Python
 - 🌱 Always eager to learn new technologies
