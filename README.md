@@ -13,6 +13,6 @@ preparing...
 
 <!-- waka-box start -->
 <!-- https://www.youtube.com/watch?v=jazcHIaitfE -->
-#### <a href="https://gist.github.com/qoweh/b592c79e80edbf3dcb0b3cb13aa14090" target="_blank">📊 Weekly development breakdown</a>
+![waka-box](https://gist.githubusercontent.com/qoweh/b592c79e80edbf3dcb0b3cb13aa14090/raw/wakatime.svg)
 
 <!-- waka-box end -->
