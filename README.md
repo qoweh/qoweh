@@ -11,6 +11,7 @@ preparing...
 
 
 
-### GitHub Activity
-[![Tokscale Stats](https://tokscale.ai/api/embed/qoweh/svg?graph=1&tokens=full&cost=full)](https://tokscale.ai/u/qoweh)
+### Token Usage
+[![Tokscale Stats](https://tokscale.ai/api/embed/qoweh/svg?compact=1&tokens=full&cost=full)](https://tokscale.ai/u/qoweh)
+
 
