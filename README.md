@@ -9,7 +9,8 @@ preparing...
 [site2](https://shields.io/)
 -->
 
-
+### GitHub Activity
+<img src="https://gitlyy.vercel.app/api/contribution?username=qoweh&hide_border=true&theme=dark"/>
 
 ### Token Usage
 [![Tokscale Stats](https://tokscale.ai/api/embed/qoweh/svg?compact=1&tokens=full&cost=full)](https://tokscale.ai/u/qoweh)
