@@ -1,9 +1,7 @@
 # Min Woo Kim
 
-<!--
 ## 👨‍💻 About Me
 preparing...
--->
 
 <!-- 
 - refer
@@ -12,8 +10,7 @@ preparing...
 -->
 
 
-### GitHub Activity
-<img src="https://gitlyy.vercel.app/api/contribution?username=qoweh&hide_border=true"/>
 
-### Token Usage
+### GitHub Activity
 [![Tokscale Stats](https://tokscale.ai/api/embed/qoweh/svg?graph=1&tokens=full&cost=full)](https://tokscale.ai/u/qoweh)
+
