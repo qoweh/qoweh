@@ -1,0 +1,25 @@
+name: Update Tokscale card
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # 6시간마다
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch SVG
+        run: |
+          curl -fsSL --retry 3 --max-time 30 \
+            "https://tokscale.ai/api/embed/qoweh/svg?compact=1&tokens=full&cost=full" \
+            -o tokscale.tmp.svg
+          grep -q "<svg" tokscale.tmp.svg && mv tokscale.tmp.svg tokscale.svg
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add tokscale.svg
+          git diff --cached --quiet || git commit -m "chore: update tokscale card"
+          git push
