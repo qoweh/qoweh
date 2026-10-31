@@ -9,13 +9,13 @@
   <text x="442" y="26" fill="#A8B3C5" font-size="11" font-weight="600" text-anchor="end" font-family="Figtree, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">Tokscale</text>
   <line x1="18" y1="58" x2="442" y2="58" stroke="rgba(255,255,255,0.09)"/>
   <text x="18.0" y="80" fill="#A8B3C5" font-size="10" font-weight="600" font-family="Figtree, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">Tokens</text>
-  <text x="18" y="113" fill="#2F8FFF" font-size="16" font-weight="600" font-family="Figtree, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" data-fit-max-width="125.33333333333334">3,155,363,338</text>
+  <text x="18" y="113" fill="#2F8FFF" font-size="16" font-weight="600" font-family="Figtree, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" data-fit-max-width="125.33333333333334">3,217,452,491</text>
   <line x1="159.3" y1="66" x2="159.3" y2="124" stroke="rgba(255,255,255,0.09)"/>
   <text x="175.3" y="80" fill="#A8B3C5" font-size="10" font-weight="600" font-family="Figtree, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">Cost</text>
-  <text x="175.3" y="113" fill="#3FB950" font-size="20.2" font-weight="600" font-family="Figtree, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" data-fit-max-width="109.33333333333334">$2,085.30</text>
+  <text x="175.3" y="113" fill="#3FB950" font-size="20.2" font-weight="600" font-family="Figtree, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" data-fit-max-width="109.33333333333334">$2,111.58</text>
   <line x1="300.7" y1="66" x2="300.7" y2="124" stroke="rgba(255,255,255,0.09)"/>
   <text x="316.7" y="80" fill="#A8B3C5" font-size="10" font-weight="600" font-family="Figtree, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">Rank (Tokens)</text>
-  <text x="316.7" y="113" fill="#F4F7FB" font-size="22" font-weight="600" font-family="Figtree, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" data-fit-max-width="109.33333333333334">#1729</text>
+  <text x="316.7" y="113" fill="#F4F7FB" font-size="22" font-weight="600" font-family="Figtree, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" data-fit-max-width="109.33333333333334">#1716</text>
   
   <g data-card-footer-y="148">
   <text x="18" y="148" fill="#A8B3C5" font-size="10" font-family="Figtree, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" data-fit-max-width="328">Updated Oct 31, 2026 (UTC)</text>
