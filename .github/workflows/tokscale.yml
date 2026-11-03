@@ -9,13 +9,22 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Fetch SVG
+        # tokscale.ai가 응답하지 않으면 이번 회차만 건너뛰고 기존 카드를 유지
         run: |
-          curl -fsSL --retry 3 --max-time 30 \
+          if ! curl -fsSL --retry 3 --max-time 30 \
             "https://tokscale.ai/api/embed/qoweh/svg?compact=1&tokens=full&cost=full" \
-            -o tokscale.tmp.svg
-          grep -q "<svg" tokscale.tmp.svg && mv tokscale.tmp.svg tokscale.svg
+            -o tokscale.tmp.svg; then
+            echo "::warning::tokscale.ai fetch failed, keeping the previous card"
+            exit 0
+          fi
+          if grep -q "<svg" tokscale.tmp.svg; then
+            mv tokscale.tmp.svg tokscale.svg
+          else
+            echo "::warning::response is not an SVG, keeping the previous card"
+          fi
+          rm -f tokscale.tmp.svg
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"
