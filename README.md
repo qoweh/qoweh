@@ -10,7 +10,7 @@ preparing...
 -->
 
 ### GitHub Activity
-<img src="https://gitlyy.vercel.app/api/contribution?username=qoweh&hide_border=true&theme=dark"/>
+[![GitHub Activity](./gitlyy.svg)](https://github.com/qoweh)
 
 ### Token Usage
 [![Tokscale Stats](./tokscale.svg)](https://tokscale.ai/u/qoweh)
